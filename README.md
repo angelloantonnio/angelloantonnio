@@ -1,4 +1,5 @@
 ## Welcome! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelloantonnio&color=yellow" alt="Profile views" /> </p>
 I'm Angelo, a 26 years old developer from Brazil.
 
 - 👨‍💻 Student at University Estácio (Analysis and systems development)
